@@ -25,11 +25,11 @@ result: [ 2, 0, 0, 0, 0, 0 ]
 result = giveChange(3.51, 3.5);  
 console.log({ result });  
 1 cents of change  
-{ result: [ 0, 0, 0, 0, 0, 1 ] }  
+result: [ 0, 0, 0, 0, 0, 1 ]
 
 result = giveChange(2.74, 1.56);  
 console.log({ result });  
 118 cents of change  
-{ result: [ 1, 0, 0, 1, 1, 3 ] }  
+result: [ 1, 0, 0, 1, 1, 3 ]
 
 
