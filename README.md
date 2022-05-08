@@ -1,6 +1,6 @@
 # Give Change Function 
 
-Implement a function which, given an amount of money, and a cost of the product, returns an array specifying which coins are to be given as change.
+Implement a function which, given an amount of money and product price, returns an array specifying which coins are to be given as change.
 
 ## Floating point number precision:
 
